@@ -5,6 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [Github repository overview](https://github.com/JuzouSatoru2?tab=repositories)
 
+- 🌱 I’m currently learning **ASP.NET Core**
+
+
 - 💬 Ask me about **React, NextJs, NodeJs**
 
 - 📫 How to reach me **Github pull requests and issues**
