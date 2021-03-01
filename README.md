@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juzousatoru2&show_icons=true&locale=en" alt="juzousatoru2" /></p>
 
-<sub>Last updated on 26 Nov 2020.</sub>
+<sub>Last updated on 01 Mar. 2021.</sub>
