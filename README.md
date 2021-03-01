@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Self learning software and web developer from Germany</h3>
 
-- 🔭 I’m currently working on [NextJs website](https://github.com/JuzouSatoru2/NextJs-Website)
+- 🔭 I’m currently working on [NextJs boilerplate](https://github.com/JuzouSatoru2/NextJs-Boilerplate)
 
 - 🌱 I’m currently learning **Kubernetes**
 
