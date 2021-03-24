@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Jlex289?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Alex289?tab=repositories)
 
 - 💬 Ask me about **NextJs, React and NodeJs in general**
 
