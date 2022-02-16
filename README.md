@@ -1,6 +1,6 @@
 ![header](header.png)
 
-#### Dual student and application developer
+#### Software developer and dual student
 
 ##### BIO
 - 🔭 I’m currently working on [What do we eat](https://github.com/Alex289/what-do-we-eat)
