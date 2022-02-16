@@ -3,8 +3,8 @@
 #### Dual student and application developer
 
 ##### BIO
-- 🔭 I’m currently working on [NextJs boilerplate](https://github.com/Alex289/NextJs-Boilerplate)
-- 🌱 I’m currently learning **.NET Core**
+- 🔭 I’m currently working on [What do we eat](https://github.com/Alex289/what-do-we-eat)
+- 🌱 I’m currently learning **.NET Core and Angular**
 - 👨‍💻 All of my projects are available at [here](https://alexanderkonietzko.vercel.app/#projects)
 - 💬 Ask me about **NextJs, React and NodeJs in general**
 - 📫 You can reach me **[here](https://github.com/Alex289/Alex289/issues)**
@@ -13,13 +13,10 @@
 ##### Languages and Tools I use:
 
 - .NET Core
-- Cypress
-- Docker
-- ExpressJS
+- Angular
 - Java
-- Javascript/NodeJS
-- MongoDB/SQL
-- React/NextJS
-- Nginx
+- NodeJS/Typescript
+- React/NextJs
+- Visual Studio (Code)
 
-<sub>Last updated on 19 Aug. 2021.</sub>
+<sub>Last updated on 16 Feb. 2022.</sub>
