@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on [What do we eat](https://github.com/Alex289/what-do-we-eat)
 - 🌱 I’m currently learning **.NET Core and Angular**
 - 👨‍💻 All of my projects are available at [here](https://alexanderkonietzko.vercel.app/#projects)
-- 💬 Ask me about **NextJs, React and NodeJs in general**
-- 📫 You can reach me **[here](https://github.com/Alex289/Alex289/issues)**
+- 💬 Ask me about anything about the stuff I use below
+- 📫 You can reach me **[here](https://github.com/Alex289/Alex289/issues/new?assignees=Alex289&labels=Contact&template=contact-template.md&title=%5BContact%5D+Your-title-here)**
 - ⚡ Fun fact **Don't code while eating crisps**
 
 ##### Current deployed projects
