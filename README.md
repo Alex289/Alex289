@@ -13,7 +13,6 @@
 ##### Current deployed projects
 - [Portfolio](https://alexanderkonietzko.vercel.app)
 - [What do we eat](https://what-do-we-eat.vercel.app)
-- [Profilimo](https://profilimo.vercel.app) (Early development)
 
 ##### Languages and Tools I use:
 
@@ -37,4 +36,4 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<sub>Last updated on 16 Feb. 2022.</sub>
+<sub>Last updated on 07 Mar. 2022.</sub>
