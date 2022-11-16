@@ -1,7 +1,7 @@
 #### Software developer and dual student
 
 ##### BIO
-- 🔭 I’m currently working on [What do we eat](https://github.com/Alex289/what-do-we-eat)
+- 🔭 I’m currently working on [Portfolio](https://github.com/Alex289/Portfolio)
 - 🌱 I’m currently learning **.NET Core and Angular**
 - 👨‍💻 All of my projects are available at [here](https://alexanderkonietzko.vercel.app/#projects)
 - 💬 Ask me about anything about the stuff I use below
@@ -18,7 +18,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PlanetScale](https://img.shields.io/badge/PlanetScale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white))
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,5 +34,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<sub>Last updated on 13 Jul. 2022.</sub>
+<sub>Last updated on 16 Nov. 2022.</sub>
