@@ -6,11 +6,14 @@
 - 👨‍💻 All of my projects are available at [here](https://alexanderkonietzko.vercel.app/#projects)
 - 💬 Ask me about anything about the stuff I use below
 - 📫 You can reach me **[here](https://github.com/Alex289/Alex289/issues/new?assignees=Alex289&labels=Contact&template=contact-template.md&title=%5BContact%5D+Your-title-here)**
-- ⚡ Fun fact **Don't code while eating crisps**
+- ⚡ Fun fact **Neovim is for the flex**
 
 ##### Current deployed projects
 - [Portfolio](https://alexanderkonietzko.vercel.app)
-- [What do we eat](https://what-do-we-eat.vercel.app)
+- [NextJs boilerplate](https://next-js-boilerplate-sable.vercel.app/)
+- [My links](https://alexanderkonietzko-links.vercel.app/)
+- [Tailed-ui docs](https://tailed-ui.vercel.app/)
+- [Nextjs turbo boilerplate](https://nextjs-turbo-boilerplate.vercel.app/)
 
 ##### Languages and Tools I use:
 
@@ -36,4 +39,4 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<sub>Last updated on 16 Nov. 2022.</sub>
+<sub>Last updated on 23 Dec. 2022.</sub>
