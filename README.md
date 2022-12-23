@@ -10,6 +10,7 @@
 
 ##### Current deployed projects
 - [Portfolio](https://alexanderkonietzko.vercel.app)
+- [What do we eat](https://what-do-we-eat.vercel.app)
 - [NextJs boilerplate](https://next-js-boilerplate-sable.vercel.app/)
 - [My links](https://alexanderkonietzko-links.vercel.app/)
 - [Tailed-ui docs](https://tailed-ui.vercel.app/)
