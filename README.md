@@ -15,6 +15,7 @@
 - [NextJs boilerplate](https://next-js-boilerplate-sable.vercel.app/)
 - [Tailed-ui docs](https://tailed-ui.vercel.app/)
 - [Nextjs turbo boilerplate](https://nextjs-turbo-boilerplate.vercel.app/)
+- [Personal Docs](https://alex-personal-docs.vercel.app/)
 
 ##### Languages and Tools I use:
 
@@ -43,4 +44,4 @@
 ![Nuxt](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Pnpm](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)
 
-<sub>Last updated on 21 Dez. 2023.</sub>
+<sub>Last updated on 27 Mar. 2024.</sub>
