@@ -13,7 +13,6 @@
 - [My links](https://alexanderkonietzko-links.vercel.app/)
 - [What do we eat](https://what-do-we-eat.vercel.app)
 - [NextJs boilerplate](https://alex-boilerplate.vercel.app/)
-- [Tailed-ui docs](https://tailed-ui.vercel.app/)
 - [Nextjs turbo boilerplate](https://nextjs-turbo-boilerplate.vercel.app/)
 - [Personal Docs](https://alex-personal-docs.vercel.app/)
 
@@ -44,4 +43,4 @@
 ![Nuxt](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Pnpm](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)
 
-<sub>Last updated on 19 Sep. 2024.</sub>
+<sub>Last updated on 1 Jan. 2025.</sub>
